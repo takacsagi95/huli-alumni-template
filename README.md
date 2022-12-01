@@ -8,7 +8,7 @@ LinkedIn: {link}
 Email: takacsagi95@gmail.com
 
 ## &rarr; [Coding projects](https://github.com/green-fox-academy/definitions/tree/master/project-phase/huli/coding-projects)
-{project-name}: {link-to-repo}
+Algorithmic exercises: [Algorithmic exercises collection](https://github.com/takacsagi95/algorithmic-practices)
 
 ## &rarr; [Interview prep](https://github.com/green-fox-academy/teaching-materials/tree/master/interview)
 LeetCode: https://leetcode.com/takacsagi95
