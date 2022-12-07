@@ -11,6 +11,7 @@ Email: takacsagi95@gmail.com
 Algorithmic exercises: [Algorithmic exercise collection](https://github.com/takacsagi95/algorithmic-practices)
 
 Todo app: [todo app](https://github.com/takacsagi95/todo-app) - in progress
+GreenBay app: [GreenBay](https://github.com/takacsagi95/GreenBay) - in progress
 
 ## &rarr; [Interview prep](https://github.com/green-fox-academy/teaching-materials/tree/master/interview)
 LeetCode: https://leetcode.com/takacsagi95
